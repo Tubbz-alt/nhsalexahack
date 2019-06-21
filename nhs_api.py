@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import untangle
 from html2text import html2text
 
-SUBSCRIPTION_KEY = "03a679cfd7e44542877f1b264d8565ec"
+SUBSCRIPTION_KEY = ""
 BASE_URL = "https://api.nhs.uk/data/"
 
 # hospitals/postcode/LS74QH/?distance=10&subscription-key=03a679cfd7e44542877f1b264d8565ec"
